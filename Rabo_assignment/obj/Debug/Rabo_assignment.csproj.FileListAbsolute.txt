@@ -1,0 +1,6 @@
+C:\Visula Studio projects\Rabo_assignment\Rabo_assignment\Rabo_assignment\bin\Debug\Rabo_assignment.exe.config
+C:\Visula Studio projects\Rabo_assignment\Rabo_assignment\Rabo_assignment\bin\Debug\Rabo_assignment.exe
+C:\Visula Studio projects\Rabo_assignment\Rabo_assignment\Rabo_assignment\bin\Debug\Rabo_assignment.pdb
+C:\Visula Studio projects\Rabo_assignment\Rabo_assignment\Rabo_assignment\obj\Debug\Rabo_assignment.csprojAssemblyReference.cache
+C:\Visula Studio projects\Rabo_assignment\Rabo_assignment\Rabo_assignment\obj\Debug\Rabo_assignment.exe
+C:\Visula Studio projects\Rabo_assignment\Rabo_assignment\Rabo_assignment\obj\Debug\Rabo_assignment.pdb

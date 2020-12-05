@@ -1,0 +1,1156 @@
+﻿08-06-2018 3:17:09
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+****XML Validation*****
+value: 130498
+Description: Tickets for Peter Theuß
+Correct End Balance
+Reference: 130498
+Start Balance: 26.9
+Mutation: -18.78
+End Balance: 8.12
+value: 167875
+Description: Tickets from Erik de Vries
+Incorrect End Balance
+Reference: 167875
+Start Balance: 5429
+Mutation: -939
+End Balance: 6368
+value: 147674
+Description: Subscription from Peter Dekker
+Correct End Balance
+Reference: 147674
+Start Balance: 74.69
+Mutation: -44.91
+End Balance: 29.78
+value: 135607
+Description: Subscription from Peter Theuß
+Correct End Balance
+Reference: 135607
+Start Balance: 70.42
+Mutation: 34.42
+End Balance: 104.84
+value: 169639
+Description: Tickets for Rik de Vries
+Correct End Balance
+Reference: 169639
+Start Balance: 31.78
+Mutation: -6.14
+End Balance: 25.64
+value: 105549
+Description: Flowers from Peter de Vries
+Correct End Balance
+Reference: 105549
+Start Balance: 105.75
+Mutation: -26.17
+End Balance: 79.58
+value: 150438
+Description: Tickets from Richard de Vries
+Correct End Balance
+Reference: 150438
+Start Balance: 10.1
+Mutation: -0.3
+End Balance: 9.8
+value: 172833
+Description: Tickets for Willem Theuß
+Correct End Balance
+Reference: 172833
+Start Balance: 66.72
+Mutation: -41.74
+End Balance: 24.98
+value: 165102
+Description: Tickets for Rik Theuß
+Incorrect End Balance
+Reference: 165102
+Start Balance: 3980
+Mutation: 1000
+End Balance: 4981
+value: 170148
+Description: Flowers for Jan Theuß
+Correct End Balance
+Reference: 170148
+Start Balance: 16.52
+Mutation: 43.09
+End Balance: 59.61
+Completed
+08-06-2018 3:31:17
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+****XML Validation*****
+value: 130498
+Description: Tickets for Peter Theuß
+Correct End Balance
+Reference: 130498
+Start Balance: 26.9
+Mutation: -18.78
+End Balance: 8.12
+value: 167875
+Description: Tickets from Erik de Vries
+Incorrect End Balance
+Reference: 167875
+Start Balance: 5429
+Mutation: -939
+End Balance: 6368
+value: 147674
+Description: Subscription from Peter Dekker
+Correct End Balance
+Reference: 147674
+Start Balance: 74.69
+Mutation: -44.91
+End Balance: 29.78
+value: 135607
+Description: Subscription from Peter Theuß
+Correct End Balance
+Reference: 135607
+Start Balance: 70.42
+Mutation: 34.42
+End Balance: 104.84
+value: 169639
+Description: Tickets for Rik de Vries
+Correct End Balance
+Reference: 169639
+Start Balance: 31.78
+Mutation: -6.14
+End Balance: 25.64
+value: 105549
+Description: Flowers from Peter de Vries
+Correct End Balance
+Reference: 105549
+Start Balance: 105.75
+Mutation: -26.17
+End Balance: 79.58
+value: 150438
+Description: Tickets from Richard de Vries
+Correct End Balance
+Reference: 150438
+Start Balance: 10.1
+Mutation: -0.3
+End Balance: 9.8
+value: 172833
+Description: Tickets for Willem Theuß
+Correct End Balance
+Reference: 172833
+Start Balance: 66.72
+Mutation: -41.74
+End Balance: 24.98
+value: 165102
+Description: Tickets for Rik Theuß
+Incorrect End Balance
+Reference: 165102
+Start Balance: 3980
+Mutation: 1000
+End Balance: 4981
+value: 170148
+Description: Flowers for Jan Theuß
+Correct End Balance
+Reference: 170148
+Start Balance: 16.52
+Mutation: 43.09
+End Balance: 59.61
+Completed
+05-12-2020 7:25:18
+****XL Validation*****
+05-12-2020 7:26:53
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+value: 130498
+Description: Tickets for Peter Theuß
+Correct End Balance
+Reference: 130498
+Start Balance: 26.9
+Mutation: -18.78
+End Balance: 8.12
+value: 167875
+Description: Tickets from Erik de Vries
+Incorrect End Balance
+Reference: 167875
+Start Balance: 5429
+Mutation: -939
+End Balance: 6368
+value: 147674
+Description: Subscription from Peter Dekker
+Correct End Balance
+Reference: 147674
+Start Balance: 74.69
+Mutation: -44.91
+End Balance: 29.78
+value: 135607
+Description: Subscription from Peter Theuß
+Correct End Balance
+Reference: 135607
+Start Balance: 70.42
+Mutation: 34.42
+End Balance: 104.84
+value: 169639
+Description: Tickets for Rik de Vries
+Correct End Balance
+Reference: 169639
+Start Balance: 31.78
+Mutation: -6.14
+End Balance: 25.64
+value: 105549
+Description: Flowers from Peter de Vries
+Correct End Balance
+Reference: 105549
+Start Balance: 105.75
+Mutation: -26.17
+End Balance: 79.58
+value: 150438
+Description: Tickets from Richard de Vries
+Correct End Balance
+Reference: 150438
+Start Balance: 10.1
+Mutation: -0.3
+End Balance: 9.8
+value: 172833
+Description: Tickets for Willem Theuß
+Correct End Balance
+Reference: 172833
+Start Balance: 66.72
+Mutation: -41.74
+End Balance: 24.98
+value: 165102
+Description: Tickets for Rik Theuß
+Incorrect End Balance
+Reference: 165102
+Start Balance: 3980
+Mutation: 1000
+End Balance: 4981
+value: 170148
+Description: Flowers for Jan Theuß
+Correct End Balance
+Reference: 170148
+Start Balance: 16.52
+Mutation: 43.09
+End Balance: 59.61
+Completed
+05-12-2020 16:05:28
+****XL Validation*****
+05-12-2020 16:05:36
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+value: 130498
+Description: Tickets for Peter Theuß
+Correct End Balance
+Reference: 130498
+Start Balance: 26.9
+Mutation: -18.78
+End Balance: 8.12
+value: 167875
+Description: Tickets from Erik de Vries
+Incorrect End Balance
+Reference: 167875
+Start Balance: 5429
+Mutation: -939
+End Balance: 6368
+value: 147674
+Description: Subscription from Peter Dekker
+Correct End Balance
+Reference: 147674
+Start Balance: 74.69
+Mutation: -44.91
+End Balance: 29.78
+value: 135607
+Description: Subscription from Peter Theuß
+Correct End Balance
+Reference: 135607
+Start Balance: 70.42
+Mutation: 34.42
+End Balance: 104.84
+value: 169639
+Description: Tickets for Rik de Vries
+Correct End Balance
+Reference: 169639
+Start Balance: 31.78
+Mutation: -6.14
+End Balance: 25.64
+value: 105549
+Description: Flowers from Peter de Vries
+Correct End Balance
+Reference: 105549
+Start Balance: 105.75
+Mutation: -26.17
+End Balance: 79.58
+value: 150438
+Description: Tickets from Richard de Vries
+Correct End Balance
+Reference: 150438
+Start Balance: 10.1
+Mutation: -0.3
+End Balance: 9.8
+value: 172833
+Description: Tickets for Willem Theuß
+Correct End Balance
+Reference: 172833
+Start Balance: 66.72
+Mutation: -41.74
+End Balance: 24.98
+value: 165102
+Description: Tickets for Rik Theuß
+Incorrect End Balance
+Reference: 165102
+Start Balance: 3980
+Mutation: 1000
+End Balance: 4981
+value: 170148
+Description: Flowers for Jan Theuß
+Correct End Balance
+Reference: 170148
+Start Balance: 16.52
+Mutation: 43.09
+End Balance: 59.61
+Completed
+05-12-2020 16:45:58
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+Completed
+05-12-2020 16:46:54
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+Completed
+05-12-2020 16:47:21
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+Completed
+05-12-2020 16:48:18
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+Completed
+05-12-2020 16:51:04
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+value: 130498
+Description: Tickets for Peter Theuß
+Correct End Balance
+Reference: 130498
+Start Balance: 26.9
+Mutation: -18.78
+End Balance: 8.12
+value: 167875
+Description: Tickets from Erik de Vries
+Incorrect End Balance
+Reference: 167875
+Start Balance: 5429
+Mutation: -939
+End Balance: 6368
+value: 147674
+Description: Subscription from Peter Dekker
+Correct End Balance
+Reference: 147674
+Start Balance: 74.69
+Mutation: -44.91
+End Balance: 29.78
+value: 135607
+Description: Subscription from Peter Theuß
+Correct End Balance
+Reference: 135607
+Start Balance: 70.42
+Mutation: 34.42
+End Balance: 104.84
+value: 169639
+Description: Tickets for Rik de Vries
+Correct End Balance
+Reference: 169639
+Start Balance: 31.78
+Mutation: -6.14
+End Balance: 25.64
+value: 105549
+Description: Flowers from Peter de Vries
+Correct End Balance
+Reference: 105549
+Start Balance: 105.75
+Mutation: -26.17
+End Balance: 79.58
+value: 150438
+Description: Tickets from Richard de Vries
+Correct End Balance
+Reference: 150438
+Start Balance: 10.1
+Mutation: -0.3
+End Balance: 9.8
+value: 172833
+Description: Tickets for Willem Theuß
+Correct End Balance
+Reference: 172833
+Start Balance: 66.72
+Mutation: -41.74
+End Balance: 24.98
+value: 165102
+Description: Tickets for Rik Theuß
+Incorrect End Balance
+Reference: 165102
+Start Balance: 3980
+Mutation: 1000
+End Balance: 4981
+value: 170148
+Description: Flowers for Jan Theuß
+Correct End Balance
+Reference: 170148
+Start Balance: 16.52
+Mutation: 43.09
+End Balance: 59.61
+Completed
+05-12-2020 16:51:55
+****XL Validation*****
+value: 194261
+Description: Clothes from Jan Bakker
+Correct End Balance
+Reference: 194261
+Start Balance: 21.6
+Mutation: -41.83
+End Balance: -20.23
+value: 112806
+Description: Clothes for Willem Dekker
+Correct End Balance
+Reference: 112806
+Start Balance: 91.23
+Mutation: 15.57
+End Balance: 106.8
+value: 183049
+Description: Clothes for Jan King
+Correct End Balance
+Reference: 183049
+Start Balance: 86.66
+Mutation: 44.5
+End Balance: 131.16
+value: 183356
+Description: Subscription for Peter de Vries
+Correct End Balance
+Reference: 183356
+Start Balance: 92.98
+Mutation: -46.65
+End Balance: 46.33
+Duplicate value: 112806
+Description: Clothes for Richard de Vries
+Correct End Balance
+Reference: 112806
+Start Balance: 90.83
+Mutation: -10.91
+End Balance: 79.92
+Duplicate value: 112806
+Description: Tickets from Richard Bakker
+Correct End Balance
+Reference: 112806
+Start Balance: 102.12
+Mutation: 45.87
+End Balance: 147.99
+value: 139524
+Description: Flowers from Jan Bakker
+Correct End Balance
+Reference: 139524
+Start Balance: 99.44
+Mutation: 41.23
+End Balance: 140.67
+value: 179430
+Description: Clothes for Vincent Bakker
+Correct End Balance
+Reference: 179430
+Start Balance: 23.96
+Mutation: -27.43
+End Balance: -3.47
+value: 141223
+Description: Clothes from Erik Bakker
+Correct End Balance
+Reference: 141223
+Start Balance: 94.25
+Mutation: 41.6
+End Balance: 135.85
+value: 195446
+Description: Flowers for Willem Dekker
+Correct End Balance
+Reference: 195446
+Start Balance: 26.32
+Mutation: 48.98
+End Balance: 75.3
+value: 130498
+Description: Tickets for Peter Theuß
+Correct End Balance
+Reference: 130498
+Start Balance: 26.9
+Mutation: -18.78
+End Balance: 8.12
+value: 167875
+Description: Tickets from Erik de Vries
+Incorrect End Balance
+Reference: 167875
+Start Balance: 5429
+Mutation: -939
+End Balance: 6368
+value: 147674
+Description: Subscription from Peter Dekker
+Correct End Balance
+Reference: 147674
+Start Balance: 74.69
+Mutation: -44.91
+End Balance: 29.78
+value: 135607
+Description: Subscription from Peter Theuß
+Correct End Balance
+Reference: 135607
+Start Balance: 70.42
+Mutation: 34.42
+End Balance: 104.84
+value: 169639
+Description: Tickets for Rik de Vries
+Correct End Balance
+Reference: 169639
+Start Balance: 31.78
+Mutation: -6.14
+End Balance: 25.64
+value: 105549
+Description: Flowers from Peter de Vries
+Correct End Balance
+Reference: 105549
+Start Balance: 105.75
+Mutation: -26.17
+End Balance: 79.58
+value: 150438
+Description: Tickets from Richard de Vries
+Correct End Balance
+Reference: 150438
+Start Balance: 10.1
+Mutation: -0.3
+End Balance: 9.8
+value: 172833
+Description: Tickets for Willem Theuß
+Correct End Balance
+Reference: 172833
+Start Balance: 66.72
+Mutation: -41.74
+End Balance: 24.98
+value: 165102
+Description: Tickets for Rik Theuß
+Incorrect End Balance
+Reference: 165102
+Start Balance: 3980
+Mutation: 1000
+End Balance: 4981
+value: 170148
+Description: Flowers for Jan Theuß
+Correct End Balance
+Reference: 170148
+Start Balance: 16.52
+Mutation: 43.09
+End Balance: 59.61
+Completed
