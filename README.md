@@ -5,6 +5,6 @@ Rabo Assignment.Technology C#
 Install .Net framework and Visual Studio 2017/2019
 
 #Run
-To successfully frun the project and to see the results :
+To successfully run the project and to see the results :
 Please execute Program.cs
 
